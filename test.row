@@ -1,0 +1,3 @@
+#V2RAYNG-LOCK-PACKAGE-BEGIN#
+{"password":"1234","expiryEpochMinute":29843789,"dataLimitBytes":10737418240,"entries":[{"content":"ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@206.189.52.4:17000?#%40V2ray_Alpha%F0%9F%8E%8D%204","expiryEpochMinute":0,"dataLimitBytes":0},{"content":"vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&path=%2F29c8fed7ca22#%40V2ray_Alpha%F0%9F%8E%8D%205","expiryEpochMinute":0,"dataLimitBytes":0}]}
+#V2RAYNG-LOCK-PACKAGE-END#
