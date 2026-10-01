@@ -1,3 +1,0 @@
-#V2RAYNG-LOCK-PACKAGE-BEGIN#
-{"password":"1234","expiryEpochMinute":29849549,"dataLimitBytes":10737418240,"entries":[{"content":"vless://0ffb444b-99f5-45d0-9630-8e4cedffc385@www.speedtest.net:2096?encryption=none&security=tls&sni=prOJEcTX-2m4.pAgEs.DeV&fp=randomized&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=projectx-2m4.pages.dev&path=%2FhygPnnwVV8jnyK0N%3Fed%3D2560#%F0%9F%92%A6%2037%20-%20VLESS%20-%20Domain%20%3A%202096","expiryEpochMinute":0,"dataLimitBytes":0}],"activation":{"username":"sa1234","maxActivations":1,"fetchCount":0,"usedBytes":0,"updatedAt":"2026-10-01T17:52:21"}}
-#V2RAYNG-LOCK-PACKAGE-END#
