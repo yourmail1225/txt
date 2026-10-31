@@ -1,0 +1,3 @@
+#V2RAYNG-LOCK-PACKAGE-BEGIN#
+{"password":"adminsaj","expiryEpochMinute":29977919,"dataLimitBytes":21474836480,"entries":[{"content":"vless://b7c1e84b-be7d-456a-911d-f8fc5c57dfca@104.17.163.123:443?sni=281-6Qh.pages.DEv&insecure=0&host=281-6qh.pages.dev&security=tls&path=%2FjfsNsJT6SasTxxcE%3Fed%3D2560&encryption=none&allowInsecure=0&alpn=http%2F1.1&type=ws#متصل","expiryEpochMinute":0,"dataLimitBytes":0}],"activation":{"username":"moradi","maxActivations":1,"fetchCount":0,"usedBytes":0,"updatedAt":"2026-10-31T18:16:11"},"expiryMessage":"اعتبار شما رو به اتمام است","expiryMessageDays":3}
+#V2RAYNG-LOCK-PACKAGE-END#
